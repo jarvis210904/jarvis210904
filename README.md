@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ? **Reach Me On Telegram on [Here](https://t.me/spidyuserbot)**
 
-- 📫 You can also Reach Me Through admin@sppidy.me
+- 📫 You can also Reach Me Through spidy@ultroid.tech
 
 - ⚡ Fun fact **I Think I am Noob**
 
