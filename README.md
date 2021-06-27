@@ -5,11 +5,11 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="sppidy" /></p>
 
-- 🔭 I’m currently working on [Jarvis](https://github.com/jarvis-works/jarvisuserbot)
+- 🔭 I’m currently working on [Ultroid](https://github.com/TeamUltroid/Ultroid)
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me ? **Reach Me On Telegram on [Here](https://t.me/spidyuserbot)**
+- 📫 How to reach me ? **I am not available at the moment. U may reach me via mail i will reply as soon as possible**
 
 - 📫 You can also Reach Me Through spidy@ultroid.tech
 
